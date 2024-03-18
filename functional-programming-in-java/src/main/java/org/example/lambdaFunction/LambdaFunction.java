@@ -1,5 +1,5 @@
 package org.example.lambdaFunction;
-
+import java.util.function.*;
 
 
 public class LambdaFunction {
