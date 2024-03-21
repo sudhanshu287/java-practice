@@ -1,2 +1,7 @@
-package org.example.defaultMethodInInterface;public class DefaultMethodInInterfaceDemo {
+package org.example.defaultMethodInInterface;
+
+public class DefaultMethodInInterfaceDemo {
+    public static void main(String[] args) {
+
+    }
 }
